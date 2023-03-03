@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_growth_oriented_section_s",
+  "info": {
+    "displayName": "Growth Oriented Section?"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeroSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "hero-section.hero-section"
+    },
+    "OurPhilosophy": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.home-our-philosophy"
+    },
+    "AboutSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.home-about-section"
+    },
+    "ReadyToLearn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.ready-to-learn"
+    },
+    "Testimonial": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.testimonial"
+    },
+    "BookCover": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.book-cover"
+    },
+    "BrandAwareness": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.brand-awareness"
+    },
+    "GreatProductsSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.great-products-section"
+    },
+    "BusinessRegular": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.great-products-section"
+    },
+    "CreativeMinds": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.great-products-section"
+    },
+    "OurProcess": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.our-process"
+    },
+    "GrowthOriented": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.growth-oriented-section"
+    },
+    "SuccessStories": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.great-products-section"
+    }
+  }
+}

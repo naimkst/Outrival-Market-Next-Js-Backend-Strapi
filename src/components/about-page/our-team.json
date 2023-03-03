@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_page_our_teams",
+  "info": {
+    "displayName": "Our Team"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}

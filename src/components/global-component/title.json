@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_global_component_titles",
+  "info": {
+    "displayName": "Title"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    }
+  }
+}

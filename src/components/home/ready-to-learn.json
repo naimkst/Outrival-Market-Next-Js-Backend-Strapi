@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_ready_to_learns",
+  "info": {
+    "displayName": "Ready To Learn"
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}

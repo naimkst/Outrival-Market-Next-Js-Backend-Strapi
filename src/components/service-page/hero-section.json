@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_service_page_hero_sections",
+  "info": {
+    "displayName": "Hero Section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    },
+    "ShortDescription": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

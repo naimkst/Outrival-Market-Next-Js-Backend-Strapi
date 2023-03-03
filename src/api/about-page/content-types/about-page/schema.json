@@ -1,0 +1,51 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "About Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeroSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "hero-section.hero-section"
+    },
+    "OurSmallTeam": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-page.our-samll-team"
+    },
+    "OurFounder": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.home-our-philosophy"
+    },
+    "OurTeam": {
+      "type": "component",
+      "repeatable": false,
+      "component": "about-page.our-team"
+    },
+    "TeamMember": {
+      "type": "component",
+      "repeatable": false,
+      "component": "global-component.title"
+    },
+    "SuccessStories": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.great-products-section"
+    },
+    "GrowthOriented": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.growth-oriented-section"
+    }
+  }
+}

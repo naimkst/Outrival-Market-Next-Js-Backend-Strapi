@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "our_processes",
+  "info": {
+    "singularName": "our-process",
+    "pluralName": "our-processes",
+    "displayName": "Our Process"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

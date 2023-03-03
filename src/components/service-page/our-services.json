@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_service_page_our_services",
+  "info": {
+    "displayName": "OurServices",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ServiceName": {
+      "type": "string"
+    },
+    "ServiceTitle": {
+      "type": "string"
+    },
+    "ShortDescription": {
+      "type": "richtext"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}

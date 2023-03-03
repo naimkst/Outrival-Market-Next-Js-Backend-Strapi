@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_home_our_philosophies",
+  "info": {
+    "displayName": "Home Our Philosophy"
+  },
+  "options": {},
+  "attributes": {
+    "SectionTitle": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

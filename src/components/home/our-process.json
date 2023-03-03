@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_home_our_processes",
+  "info": {
+    "displayName": "Our Process"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

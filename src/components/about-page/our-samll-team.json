@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_about_page_our_samll_teams",
+  "info": {
+    "displayName": "OurSamllTeam"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "richtext"
+    },
+    "ShortDescription": {
+      "type": "richtext"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

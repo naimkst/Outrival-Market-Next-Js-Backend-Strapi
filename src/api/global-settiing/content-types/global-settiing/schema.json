@@ -1,0 +1,49 @@
+{
+  "kind": "singleType",
+  "collectionName": "global_settiings",
+  "info": {
+    "singularName": "global-settiing",
+    "pluralName": "global-settiings",
+    "displayName": "Global Settiing",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Address": {
+      "type": "richtext"
+    },
+    "Phone": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "CopyRightText": {
+      "type": "richtext"
+    },
+    "FooterLogo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_great_products_sections",
+  "info": {
+    "displayName": "Great products Section"
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}

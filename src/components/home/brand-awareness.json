@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_brand_awarenesses",
+  "info": {
+    "displayName": "Brand Awareness"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonUrl": {
+      "type": "string"
+    }
+  }
+}
